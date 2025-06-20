@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Riyaḑ al Khabra’",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-06-19T20:19:20.177Z",
+      "notes": "",
+      "position": {
+        "lat": "25.994077555830863",
+        "lng": "43.082455938934274"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Moya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-19T22:15:46.458Z",
+      "notes": "",
+      "position": {
+        "lat": "40.014700119499764",
+        "lng": "-1.3403322681999397"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-06-19T22:17:47.750Z",
+      "notes": "",
+      "position": {
+        "lat": "28.754347087491542",
+        "lng": "28.78417952953336"
+      },
+      "id": 6
+    }
+  ]
+}
